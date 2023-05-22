@@ -4,3 +4,5 @@ In this Repository , I have Implemented some Machine Learning Algorithms from Sc
 
  ## 1.  Linear Regression : 
   The files are LinearRegression.py and train.py
+  
+ ## 2. Logistic Regression :
