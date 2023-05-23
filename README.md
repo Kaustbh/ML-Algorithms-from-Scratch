@@ -6,3 +6,5 @@ In this Repository , I have Implemented some Machine Learning Algorithms from Sc
   The files are LinearRegression.py and train.py
   
  ## 2. Logistic Regression :
+ 
+ ## 3. K-means Clustering :
