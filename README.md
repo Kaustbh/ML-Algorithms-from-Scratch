@@ -8,3 +8,5 @@ In this Repository , I have Implemented some Machine Learning Algorithms from Sc
  ## 2. Logistic Regression :
  
  ## 3. K-means Clustering :
+ 
+ ## 4. Support Vector Machine :
