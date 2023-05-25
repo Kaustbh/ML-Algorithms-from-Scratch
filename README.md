@@ -10,3 +10,5 @@ In this Repository , I have Implemented some Machine Learning Algorithms from Sc
  ## 3. K-means Clustering :
  
  ## 4. Support Vector Machine :
+ 
+ ## 5. Navie Bayes :
