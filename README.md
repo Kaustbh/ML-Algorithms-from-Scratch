@@ -14,3 +14,5 @@ In this Repository , I have Implemented some Machine Learning Algorithms from Sc
  ## 5. Navie Bayes :
  
  ## 6. Decision Tree :
+ 
+ ## 7. Simple Perceptron :
